@@ -22,11 +22,13 @@ Looking for my first Developer position.
 
 **Database**
 - PostgreSQL
+- MongoDB
 
 **Frontend**
 - TypeScript (in progress)
 - HTML
 - CSS
+- JavaScript
 
 **Tools**
 - Git & GitHub
