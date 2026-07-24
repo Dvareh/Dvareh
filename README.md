@@ -3,12 +3,14 @@
 I'm Artiom Prilepschi, Computer Science student from Poland.
 I enjoy building web applications and constantly improving my software engineering skills.
 
-### What am I currently working on?
-    Building **Planio**, a task management platform with Spring Boot.
-    Learning TypeScript to become a full-stack developer with React or Angular.
-    Looking for my first Developer position.
+## What am I currently working on?
+Building **Planio**, a task management platform with Spring Boot.
 
-### Tech Stack
+Learning TypeScript to become a full-stack developer with React or Angular.
+
+Looking for my first Developer position.
+
+## Tech Stack
 
 **Backend**
 - Java
@@ -34,7 +36,7 @@ I enjoy building web applications and constantly improving my software engineeri
 - Postman
 - Swagger / OpenAPI
 
-### How to reach me
+## How to reach me
 
 - artiomprilepschi@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/artiom-prilepschi-b54209395/)
