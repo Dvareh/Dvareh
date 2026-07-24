@@ -1,16 +1,42 @@
 ## Hi there 👋
 
-<!--
-**Dvareh/Dvareh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Artiom Prilepschi, Computer Science student from Poland.
+I enjoy building web applications and constantly improving my software engineering skills.
 
-Here are some ideas to get you started:
+### What am I currently working on?
+    Building **Planio**, a task management platform with Spring Boot.
+    Learning TypeScript to become a full-stack developer with React or Angular.
+    Looking for my first Developer position.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Backend**
+- Java
+- Spring Boot
+- Spring Security
+- Hibernate / JPA
+- REST APIs
+- JWT
+
+**Database**
+- PostgreSQL
+
+**Frontend**
+- TypeScript (in progress)
+- HTML
+- CSS
+
+**Tools**
+- Git & GitHub
+- Maven
+- Docker
+- IntelliJ IDEA
+- Postman
+- Swagger / OpenAPI
+
+### How to reach me
+
+- artiomprilepschi@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/artiom-prilepschi-b54209395/)
+
+
