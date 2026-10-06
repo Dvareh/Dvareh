@@ -25,7 +25,7 @@ Looking for my first Developer position.
 - MongoDB
 
 **Frontend**
-- TypeScript (in progress)
+- TypeScript & Angular (in progress)
 - HTML
 - CSS
 - JavaScript
