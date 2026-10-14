@@ -4,9 +4,7 @@ I'm Artiom Prilepschi, Computer Science student from Poland.
 I enjoy building web applications and constantly improving my software engineering skills.
 
 ## What am I currently working on?
-Building **Planio**, a task management platform with Spring Boot.
-
-Learning TypeScript to become a full-stack developer with React or Angular.
+Building **Planio**, a task management platform with Spring Boot and Angular
 
 Looking for my first Developer position.
 
@@ -25,7 +23,7 @@ Looking for my first Developer position.
 - MongoDB
 
 **Frontend**
-- TypeScript & Angular (in progress)
+- TypeScript & Angular
 - HTML
 - CSS
 - JavaScript
